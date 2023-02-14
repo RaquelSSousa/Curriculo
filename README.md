@@ -5,7 +5,7 @@
 
 ### Atualmente estou trabalhando na realização de pequenos projetos em:
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<p>1- Realização do 1º problema do Projecteuler.net (multiplos de 3 ou 5)</p>
+<p>1- Solução do 1º problema do Projecteuler.net (multiplos de 3 ou 5)</p>
 <p>2 - Programa que joga Jokenpô com o usuário</p>
 <p>3 - Programa que calcula e informa sobre um possível emprestimo bancário para compra de uma casa</p>
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></p>
