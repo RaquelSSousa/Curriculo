@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Seja bem vindo(a) ao meu Currílo Github</h1>
 <h1 align="center">Meu nome é Raquel</h1>
 
-### Estou, cursando o 2º trimestre de Análise e Desenvolvimento de Sistemas, bastante feliz. 
+### Estou, cursando o 3º trimestre de Análise e Desenvolvimento de Sistemas, bastante feliz. 
 
 ### Atualmente estou trabalhando na realização de pequenos projetos em:
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
